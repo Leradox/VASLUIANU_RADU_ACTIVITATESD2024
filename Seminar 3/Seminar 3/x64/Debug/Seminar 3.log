@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\User\source\repos\VASLUIANU_RADU_ACTIVITATE_SDD\Seminar 3\Seminar 3\Source.c(96,32): warning C4133: 'function': incompatible types - from 'Locuinte **' to 'Locuinta **'
+C:\Users\User\source\repos\VASLUIANU_RADU_ACTIVITATE_SDD\Seminar 3\Seminar 3\Source.c(98,24): warning C4133: 'function': incompatible types - from 'Locuinte *' to 'Locuinta *'
+C:\Users\User\source\repos\VASLUIANU_RADU_ACTIVITATE_SDD\Seminar 3\Seminar 3\Source.c(100,17): warning C4133: 'function': incompatible types - from 'Locuinte **' to 'Locuinta **'
+C:\Users\User\source\repos\VASLUIANU_RADU_ACTIVITATE_SDD\Seminar 3\Seminar 3\Source.c(101,24): warning C4133: 'function': incompatible types - from 'Locuinte *' to 'Locuinta *'
+  Seminar 3.vcxproj -> C:\Users\User\source\repos\VASLUIANU_RADU_ACTIVITATE_SDD\Seminar 3\x64\Debug\Seminar 3.exe
