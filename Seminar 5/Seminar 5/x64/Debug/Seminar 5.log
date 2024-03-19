@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\User\source\repos\VASLUIANU_RADU_ACTIVITATE_SDD\Seminar 5\Seminar 5\Source.c(22,41): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\User\source\repos\VASLUIANU_RADU_ACTIVITATE_SDD\Seminar 5\Seminar 5\Source.c(23,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\User\source\repos\VASLUIANU_RADU_ACTIVITATE_SDD\Seminar 5\Seminar 5\Source.c(53,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Seminar 5.vcxproj -> C:\Users\User\source\repos\VASLUIANU_RADU_ACTIVITATE_SDD\Seminar 5\x64\Debug\Seminar 5.exe
