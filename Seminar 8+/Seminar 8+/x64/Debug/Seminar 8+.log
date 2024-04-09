@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\User\source\repos\VASLUIANU_RADU_ACTIVITATE_SDD\Seminar 8+\Seminar 8+\Source.c(92,13): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\User\source\repos\VASLUIANU_RADU_ACTIVITATE_SDD\Seminar 8+\Seminar 8+\Source.c(82): warning C4715: 'ExtragereHeap': not all control paths return a value
+  Seminar 8+.vcxproj -> C:\Users\User\source\repos\VASLUIANU_RADU_ACTIVITATE_SDD\Seminar 8+\x64\Debug\Seminar 8+.exe
