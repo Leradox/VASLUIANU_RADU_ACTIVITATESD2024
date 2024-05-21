@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\User\source\repos\VASLUIANU_RADU_ACTIVITATE_SDD\Seminar 9\Seminar 9\Source.c(19,19): warning C4133: 'function': incompatible types - from 'Nod **' to 'Nod **'
+C:\Users\User\source\repos\VASLUIANU_RADU_ACTIVITATE_SDD\Seminar 9\Seminar 9\Source.c(22,19): warning C4133: 'function': incompatible types - from 'Nod **' to 'Nod **'
+C:\Users\User\source\repos\VASLUIANU_RADU_ACTIVITATE_SDD\Seminar 9\Seminar 9\Source.c(66,46): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\User\source\repos\VASLUIANU_RADU_ACTIVITATE_SDD\Seminar 9\Seminar 9\Source.c(66,46): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\User\source\repos\VASLUIANU_RADU_ACTIVITATE_SDD\Seminar 9\Seminar 9\Source.c(74,24): warning C4133: 'function': incompatible types - from 'Nod *' to 'Nod *'
+C:\Users\User\source\repos\VASLUIANU_RADU_ACTIVITATE_SDD\Seminar 9\Seminar 9\Source.c(76,24): warning C4133: 'function': incompatible types - from 'Nod *' to 'Nod *'
+  Seminar 9.vcxproj -> C:\Users\User\source\repos\VASLUIANU_RADU_ACTIVITATE_SDD\Seminar 9\x64\Debug\Seminar 9.exe
