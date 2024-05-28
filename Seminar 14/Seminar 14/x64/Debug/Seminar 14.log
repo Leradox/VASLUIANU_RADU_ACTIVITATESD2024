@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\User\source\repos\VASLUIANU_RADU_ACTIVITATE_SDD\Seminar 14\Seminar 14\Source.c(155,31): warning C4047: 'function': 'NodCoada **' differs in levels of indirection from 'NodCoada ***'
+C:\Users\User\source\repos\VASLUIANU_RADU_ACTIVITATE_SDD\Seminar 14\Seminar 14\Source.c(155,27): warning C4024: 'extragereDinCoada': different types for formal and actual parameter 1
+  Seminar 14.vcxproj -> C:\Users\User\source\repos\VASLUIANU_RADU_ACTIVITATE_SDD\Seminar 14\x64\Debug\Seminar 14.exe
